@@ -1,0 +1,10 @@
+{
+    "short_name": "AksharaRead",
+    "name": "Akshara-Read: Tamil Dyslexia Assistive Platform (ArQAM Knights)",
+    "description": "100% Client-Side 2D Tamil Orthographic Decompounding & Assistive Reading Engine",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FAF6EE",
+    "theme_color": "#0F294A",
+    "orientation": "any"
+}
